@@ -1,3 +1,4 @@
+#Maquinas de Boltzmann Restringidas
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jun  5 22:51:55 2023
